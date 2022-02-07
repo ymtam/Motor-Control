@@ -10,6 +10,8 @@ PCB edit and view use autodesk eagle
 
 Code use MPLAB X IDE 
 
-https://github.com/ymtam/Motor-Control/blob/main/PIC16F886.X/Motor.png
+![alt tag](https://github.com/ymtam/Motor-Control/blob/main/PIC16F886.X/Motor.png)
+
+
 
 
